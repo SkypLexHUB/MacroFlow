@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MacroFlow</string>
+
+    <string name="nav_home">หน้าหลัก</string>
+    <string name="nav_macros">แมโคร</string>
+    <string name="nav_editor">ตัวแก้ไข</string>
+    <string name="nav_schedule">ตั้งเวลา</string>
+    <string name="nav_settings">ตั้งค่า</string>
+
+    <string name="home_subtitle">ระบบ Automation บนมือถือขั้นสูง</string>
+    <string name="home_status_label">สถานะ Automation</string>
+    <string name="status_idle">ว่าง</string>
+    <string name="stat_macros">แมโครทั้งหมด</string>
+    <string name="stat_runs">การรันทั้งหมด</string>
+    <string name="stat_success">สำเร็จ</string>
+    <string name="stat_failed">ล้มเหลว</string>
+    <string name="quick_actions">ทางลัด</string>
+    <string name="action_manage_macros">จัดการแมโคร</string>
+    <string name="recent_activity">กิจกรรมล่าสุด</string>
+    <string name="recent_empty">ยังไม่มีการรัน ผลลัพธ์จะแสดงที่นี่หลังจากรันแมโคร</string>
+    <string name="favorites">แมโครโปรด</string>
+    <string name="favorites_empty">ยังไม่มีแมโครโปรด กดดาวที่แมโครเพื่อแสดงที่นี่</string>
+    <string name="exec_status_success">สำเร็จ</string>
+    <string name="exec_status_failed">ล้มเหลว</string>
+    <string name="exec_status_stopped">หยุดแล้ว</string>
+    <string name="exec_row_detail">%1$s · %2$s</string>
+
+    <string name="macros_title">แมโคร</string>
+    <string name="macros_search">ค้นหาแมโคร</string>
+    <string name="macros_empty_title">ยังไม่มีแมโคร</string>
+    <string name="macros_empty_body">กด “แมโครใหม่” เพื่อสร้างแมโครแรกของคุณ</string>
+    <string name="macros_no_results">ไม่พบแมโครที่ตรงกับการค้นหา</string>
+    <string name="macro_new">แมโครใหม่</string>
+    <string name="macro_edit">แก้ไขแมโคร</string>
+    <string name="macro_name">ชื่อ</string>
+    <string name="macro_description">คำอธิบาย</string>
+    <string name="macro_actions_count">จำนวน Action: %1$d</string>
+    <string name="action_save">บันทึก</string>
+    <string name="action_cancel">ยกเลิก</string>
+    <string name="action_delete">ลบ</string>
+    <string name="delete_macro_title">ลบแมโคร?</string>
+    <string name="delete_macro_message">“%1$s” และ Action ทั้งหมดจะถูกลบถาวร</string>
+    <string name="error_name_empty">กรุณากรอกชื่อ</string>
+    <string name="error_name_long">ชื่อยาวเกินไป (สูงสุด %1$d ตัวอักษร)</string>
+    <string name="error_desc_long">คำอธิบายยาวเกินไป (สูงสุด %1$d ตัวอักษร)</string>
+    <string name="error_generic">เกิดข้อผิดพลาด กรุณาลองอีกครั้ง</string>
+    <string name="cd_favorite">สลับรายการโปรด</string>
+    <string name="cd_edit">แก้ไข</string>
+    <string name="cd_delete">ลบ</string>
+
+    <string name="editor_body">ตัวแก้ไข Action แบบภาพกำลังอยู่ระหว่างพัฒนา</string>
+    <string name="schedule_body">ระบบตั้งเวลากำลังอยู่ระหว่างพัฒนา</string>
+    <string name="coming_soon">เร็ว ๆ นี้</string>
+
+    <string name="settings_title">ตั้งค่า</string>
+    <string name="settings_theme">ธีม</string>
+    <string name="theme_dark">มืด</string>
+    <string name="theme_light">สว่าง</string>
+    <string name="theme_system">ตามระบบ</string>
+    <string name="settings_data">ข้อมูล</string>
+    <string name="settings_clear_history">ล้างประวัติการรัน</string>
+    <string name="clear_history_title">ล้างประวัติ?</string>
+    <string name="clear_history_message">ประวัติการรันทั้งหมดจะถูกลบถาวร แมโครจะไม่ได้รับผลกระทบ</string>
+    <string name="settings_about">เกี่ยวกับ</string>
+    <string name="settings_version">เวอร์ชัน %1$s</string>
+</resources>
